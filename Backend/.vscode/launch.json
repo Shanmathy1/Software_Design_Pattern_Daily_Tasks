@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-StorytellingApplication<storytelling>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.littleinn.storytelling.StorytellingApplication",
+            "projectName": "storytelling",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
